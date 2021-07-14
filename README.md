@@ -17,4 +17,4 @@ Codacy badge:
 
 Code Inspector Badge:
 [![Codacy Badge](https://frontend.code-inspector.com/public/project/25253/miniproject/dashboard)](https://www.code-inspector.com/project/25253/score/svg)
-[![Codacy Badge](https://www.code-inspector.com/project/25253/status/svg)](https://app.codacy.com/gh/pavankumar9823/miniproject?utm_source=github.com&utm_medium=referral&utm_content=pavankumar9823/miniproject&utm_campaign=Badge_Grade_Settings)
+[![Codacy Badge](https://www.code-inspector.com/project/25253/status/svg)](https://www.code-inspector.com/project/25253/score/svg)
